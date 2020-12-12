@@ -1,0 +1,82 @@
+* {margin: 2%}
+
+
+body{
+  background-image: url("cheff-pizza.jpg");
+  background-position: top;
+  background-repeat: repeat;
+}
+.comentario{
+  color: green;
+  background-color: #7FFFD4;
+  padding: 3%;
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+  font-family: fantasy;
+}
+
+.imagen-pizza{
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+}
+
+
+h1{
+  color: red;
+  background-color: blue;
+  padding: 3%;
+}
+
+.Ingredientes{
+  background-color: #E67E22;
+  width: 48%;
+  padding: 2%;
+
+}
+
+
+
+.PREPARACIÓN{
+  background-color: #003333;
+  padding: 2%;
+  width: 80%;
+}
+
+
+.video{
+
+width: 48%;
+
+float: left;
+margin-right: 5%;
+
+}
+.mapa{
+width: 20%;
+float:left;
+margin: 1%;
+}
+.RECETA{
+  color: red;
+  background-color: #B0C4DE;
+
+  width: 20%;
+
+  padding: 1%;
+}
+
+
+
+
+
+
+footer{
+  color: blue;
+  padding: 1%;
+  width: 100%;
+  background-color: #333300;
+  margin-right:  10%;
+
+}
